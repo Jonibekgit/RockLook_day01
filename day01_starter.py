@@ -1,3 +1,5 @@
+# I changed gaze_offset and gaze_threshold to negative value, because in my testing it showed negative threshold that is why I changed it
+
 
 import cv2
 import mediapipe as mp
